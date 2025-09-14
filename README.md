@@ -5,9 +5,15 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=186DF7&random=false&width=435&lines=Bem-vindo(a)+ao+meu+perfil+no+Github.;Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
   
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="1000px" height="400px">
+
   
 </div>
-
+<div align="center">
+  <br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,mysql,javascript,html,css,bootstrap&theme=light)](https://skillicons.dev)
+  
+</div>  
 <hr>
 
 <div align="center">
@@ -30,7 +36,6 @@
 
   <hr>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,mysql,javascript,html,css,bootstrap&theme=light)](https://skillicons.dev)
     
 </div>
 
