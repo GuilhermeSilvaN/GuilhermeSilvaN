@@ -1,7 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSilvaN&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSilvaN&hide_progress=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSilvaN&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
