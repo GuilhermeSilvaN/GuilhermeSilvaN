@@ -1,3 +1,3 @@
-<div border="1px solid red">
+<div">
   <h1 text-align="center">Eu sou Guilherme</h1>
 </div>
