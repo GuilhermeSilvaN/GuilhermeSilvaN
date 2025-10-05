@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=093a3e">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGuilhermeSilvaN&label=visitors&labelColor=%23363636&countColor=%231e90ff&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGuilhermeSilvaN&label=visitantes&labelColor=689689&countColor=fff)
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=186DF7&random=false&width=435&lines=Bem-vindo(a)+ao+meu+perfil+no+Github.;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=689689&random=false&width=435&lines=Bem-vindo(a)+ao+meu+perfil+no+Github.;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
   
 </div>
 <hr>
