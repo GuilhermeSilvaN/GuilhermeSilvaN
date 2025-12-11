@@ -18,17 +18,14 @@
 </div>
 
 <div align="center">
-  
-  [![My Skills](https://skillicons.dev/icons?i=java,mysql,spring,javascript,html,css,bootstrap&theme=light)](https://skillicons.dev)
+
+  <img src="https://skillicons.dev/icons?i=java,mysql,hibernate,spring,postman,git,github,idea&theme=dark" />
   
 </div>  
 
 <div align="center">
   
   <br><br>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSilvaN&show_icons=true&theme=dracula)
-   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSilvaN&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&title_color=dd5796&text_color=98E3DE&bg_color=0d1117" alt="Tecnologias">
 
 </div>
 
