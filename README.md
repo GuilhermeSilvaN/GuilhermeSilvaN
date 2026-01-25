@@ -1,21 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=093a3e">
+<p>👨‍💻 Software Engineer Java</p>
+<p>📚 Cursando em Análise e Desenvolvimento de Sistemas (ADS) <a href="https://portal.uniasselvi.com.br/cursos/graduacao?utm_source=google&utm_medium=cpc&utm_campaign=A-EAD-GG-ONG-CAP-GRA-CONV-PADR-BRAN-BR-PESQ-CPC-GEAD-INSTITUCIONAL&gclsrc=aw.ds&gad_source=1&gad_campaignid=20208957724&gbraid=0AAAAADozhfJltt1guDq5RW17t7HeKvI4-&gclid=Cj0KCQiAm9fLBhCQARIsAJoNOcte7_2_n5-8ZbFz0QS6S2AOlU_OYvF2dRZZ3nRA3g7uiZ872fLV-hQaApELEALw_wcB" target="_blank">Uniasselvi</a> </p>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGuilhermeSilvaN&label=visitantes&labelColor=689689&countColor=fff)
+<p>🔗 Perfil no linkedin: <a href="https://www.linkedin.com/in/guilherme-silva-0335ab29b/">Guilherme Silva</a></p>
+<br>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=689689&random=false&width=435&lines=Bem-vindo(a)+ao+meu+perfil+no+Github.;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
-  
-</div>
+
+
 <hr>
-
-<div align="center">
-  <h3>OLÁ, EU SOU GUILHERME</h3>
-  Desenvolvedor Back-end Java
-  Profissional em formação com foco em desenvolvimento de sistemas utilizando Java e boas práticas de programação orientada a objetos. Experiência acadêmica e prática em APIs REST, bancos de dados relacionais (MySQL), versionamento com Git/GitHub e conceitos de arquitetura de software. Interesse em         construir soluções escaláveis, seguras e bem estruturadas, aplicando padrões de projeto e princípios SOLID.
-  
-  <hr>
-</div>
 
 <div align="center">
 
