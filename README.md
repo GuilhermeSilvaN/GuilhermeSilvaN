@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=java,mysql,hibernate,spring,postman,git,github,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,mongodb,hibernate,spring,postman,git,github,idea&theme=dark" />
   
 </div>  
 
